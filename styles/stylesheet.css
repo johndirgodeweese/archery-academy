@@ -163,6 +163,11 @@ hr {
   width: 40%;
   float: left;
 }
+
+/* video {
+  display:block;
+  width: 640px;
+} */
 .page-footer {
   color: white;
   background-image: url("../graphics/footerImage.jpg");
