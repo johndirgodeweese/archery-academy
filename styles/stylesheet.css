@@ -68,6 +68,9 @@ h3 {
   line-height: 1.5;
 }
 
+p {
+  margin-bottom: 1em;
+}
 .quotes {
   font-size: 30px;
   color: #03a3df;
