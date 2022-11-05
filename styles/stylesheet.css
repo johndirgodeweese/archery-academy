@@ -73,19 +73,19 @@ p {
 }
 .quotes {
   font-size: 30px;
-  color: #03a3df;
+  color: #035C7C;
 }
 
 .call-out {
   font-size: 14px;
   font-variant: small-caps;
-  color: #03a3df;
+  color: #035C7C;
 }
 
 .instructor-certifications {
     font-size: 14px;
     font-variant: small-caps;
-    color: #ecb722;
+    color: #F9F1D7;
 }
 
 .header-style {
@@ -153,7 +153,8 @@ p {
 hr {
   border-width: 1px;
   border-style: solid;
-  border-color: #ecb722;
+  border-color:#F9F1D7;
+  ;
 }
 
 .single-instructor {
